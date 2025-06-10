@@ -6,11 +6,17 @@
         "vod_url": "https://xiafanapp.lanzn.com/b04ezblvc"
     },
     "bulletin": {
-        "vod_msg": "\n                            来对地方啦！！！"
+        "vod_msg": "\n                          欢迎使用小胡视频，祝各位用户天天开心😁"
     },
     "banner": {
         "vod_id": "淮水竹亭",
         "vod_type": "1",
+        "vod_title": "淮水竹亭",
+        "vod_pic": "https://pic2.ziyuan.wang/user/syk/2025/05/f1e41f8578dbaca38fa8b1a2660aafb_2f3d506117f60.png"
+    },
+    "banner": {
+        "vod_id": "淮水竹亭",
+        "vod_type": "2",
         "vod_title": "淮水竹亭",
         "vod_pic": "https://pic2.ziyuan.wang/user/syk/2025/05/f1e41f8578dbaca38fa8b1a2660aafb_2f3d506117f60.png"
     },
