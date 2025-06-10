@@ -1,12 +1,12 @@
 {
     "update": {
         "vod_force": true,
-        "vod_version": 480,
+        "vod_version": 0.1,
         "vod_msg": "- 本次更新不会覆盖安装\n- 桌面会有另一个软件图标\n- 解决软件报毒\n- 减少恶心的广告\n- 桌面会出现一样的软件图标\n- 桌面会出现一样的软件图标\n- 请尽快更新",
-        "vod_url": "https://xiafanapp.lanzn.com/b04ezblvc"
+        "vod_url": "https://www.123684.com/s/HSleVv-gGssH"
     },
     "bulletin": {
-        "vod_msg": "\n                          欢迎使用小胡视频，祝各位用户天天开心😁"
+        "vod_msg": "欢迎使用小胡视频\n祝各位用户天天开心😁"
     },
     "banner": {
         "vod_id": "淮水竹亭",
@@ -14,14 +14,8 @@
         "vod_title": "淮水竹亭",
         "vod_pic": "https://pic2.ziyuan.wang/user/syk/2025/05/f1e41f8578dbaca38fa8b1a2660aafb_2f3d506117f60.png"
     },
-    "banner": {
-        "vod_id": "淮水竹亭",
-        "vod_type": "2",
-        "vod_title": "淮水竹亭",
-        "vod_pic": "https://pic2.ziyuan.wang/user/syk/2025/05/f1e41f8578dbaca38fa8b1a2660aafb_2f3d506117f60.png"
-    },
     "share": {
-        "vod_sharemsg": "发现了一个看电影神器，每天更新多种大片，美剧，追剧超方便，点我下载吧~：\n\nhttps://www.123865.com/s/nVjbVv-bg1Wh [分享自影视猫]"
+        "vod_sharemsg": "发现了一个看小胡视频电影神器，每天更新多种大片，美剧，追剧超方便，点我下载吧~：\n\nhttps://www.123684.com/s/HSleVv-gGssH[分享来自小胡视频]"
     },
     "wldata": {
         "vod_switch": false
